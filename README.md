@@ -14,4 +14,4 @@ Project ini merupakan rancangan dari Sistem Computer Based Test (CBT) yang dapat
   - search quiz
 
 # Preview Project
-![gambar preview project]([Screenshot (248).png](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Screenshot%20(248).png)https://github.com/kimnopal/project-round-trip-engineering/blob/main/Screenshot%20(248).png "Preview Project").
+![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Screenshot%20(248).png "Preview Project").
