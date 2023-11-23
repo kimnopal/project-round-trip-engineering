@@ -7,10 +7,20 @@ import javax.persistence.*;
 import java.util.*;
  
 @Entity
+@Table(name = "mahasiswa",
+		uniqueConstraints = {
+			@UniqueConstraint(columnNames = {"id"})
+		}
+)
 public class Mahasiswa extends User {
 
+	@OneToMany
 	Collection<Submission> submission;
+
+	@OneToMany
 	Collection<Quiz> quiz;
+	
+	private int id;
 	private String nim;
 	private String major;
 

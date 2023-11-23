@@ -7,7 +7,7 @@ import javax.persistence.*;
 import java.util.*;
  
 @Entity
-public class User extends Model {
+public abstract class User extends Model {
 
 	private String name;
 	private String email;

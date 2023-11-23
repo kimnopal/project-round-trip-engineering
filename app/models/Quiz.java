@@ -7,12 +7,26 @@ import javax.persistence.*;
 import java.util.*;
  
 @Entity
+@Table(name = "quiz",
+		uniqueConstraints = {
+			@UniqueConstraint(columnNames = {"id"})
+		}
+)
 public class Quiz extends Model {
 
+	@ManyToOne
 	Dosen dosen;
+
+	@OneToMany
 	Collection<Mahasiswa> mahasiswa;
+
+	@OneToMany
 	Collection<Pertanyaan> pertanyaan;
+
+	@OneToMany
 	Collection<Submission> submission;
+	
+	private int id;
 	private String title;
 	private String description;
 	private String creator;
