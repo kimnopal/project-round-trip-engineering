@@ -14,14 +14,21 @@ Project ini bertujuan untuk mengetahui langkah - langkah dari **round-trip engin
   - search quiz
 
 # Preview Project
-![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Preview%20Project.png "Preview Project").
+![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Preview%20Project.png "Preview Project")
 
 # Lain - lain
 1. Textual Analysis
-   ![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Textual%20Analysis.png "Textual Analysis").
+
+   ![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Textual%20Analysis.png "Textual Analysis")
+
 2. Use Case Diagram
-   ![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Use%20Case%20Diagram.png "Use Case Diagram").
+
+   ![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Use%20Case%20Diagram.png "Use Case Diagram")
+
 3. Class Diagram
-   ![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Class%20Diagram.png "Class Diagram").
+
+   ![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Class%20Diagram.png "Class Diagram")
+
 4. Sequence Diagram
-   ![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Sequence%20Diagram.png "Class Diagram").
+
+   ![gambar preview project](https://github.com/kimnopal/project-round-trip-engineering/blob/main/Sequence%20Diagram.png "Class Diagram")
