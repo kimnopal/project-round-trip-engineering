@@ -1,5 +1,5 @@
-# project-round-trip-engineering
-Project ini merupakan rancangan dari Sistem Computer Based Test (CBT) yang dapat digunakan untuk melaksanakan ujian secara online. Sistem CBT ini dirancang untuk memiliki 2 user yaitu mahasiswa dan dosen. Dimana masing - masing user dapat melakukan aksi tertentu.
+# Project Round Trip Engineering
+Project ini bertujuan untuk mengetahui langkah - langkah dari **round-trip engineering**. Studi kasus dalam project ini adalah rancangan dari Sistem Computer Based Test (CBT) yang dapat digunakan untuk melaksanakan ujian secara online. Sistem CBT ini dirancang untuk memiliki 2 user yaitu mahasiswa dan dosen, dimana masing - masing user dapat melakukan aksi tertentu.
 
 # Fitur
 - multi user (Mahasiswa, Dosen)
